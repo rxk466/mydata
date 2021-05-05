@@ -1,0 +1,65 @@
+category,year,quarter,number
+EMS total,2019,1,156
+EMS total,2019,2,158
+EMS total,2019,3,226
+EMS total,2019,4,194
+EMS total,2020,1,140
+EMS total,2020,2,138
+EMS total,2020,3,115
+EMS total,2020,4,80
+EMS doa,2019,1,5
+EMS doa,2019,2,2
+EMS doa,2019,3,9
+EMS doa,2019,4,2
+EMS doa,2020,1,18
+EMS doa,2020,2,15
+EMS doa,2020,3,10
+EMS doa,2020,4,15
+EMS anxiety,2019,1,0
+EMS anxiety,2019,2,0
+EMS anxiety,2019,3,1
+EMS anxiety,2019,4,3
+EMS anxiety,2020,1,2
+EMS anxiety,2020,2,2
+EMS anxiety,2020,3,3
+EMS anxiety,2020,4,0
+D65 suicide,2019,1,0
+D65 suicide,2019,2,0
+D65 suicide,2019,3,17
+D65 suicide,2019,4,45
+D65 suicide,2020,1,43
+D65 suicide,2020,2,1
+D65 suicide,2020,3,6
+D65 suicide,2020,4,10
+D65 dcfs,2019,1,0
+D65 dcfs,2019,2,0
+D65 dcfs,2019,3,8
+D65 dcfs,2019,4,9
+D65 dcfs,2020,1,4
+D65 dcfs,2020,2,0
+D65 dcfs,2020,3,1
+D65 dcfs,2020,4,1
+ER NS visits,2019,1,0
+ER NS visits,2019,2,448
+ER NS visits,2019,3,436
+ER NS visits,2019,4,469
+ER NS visits,2020,1,394
+ER NS visits,2020,2,311
+ER NS visits,2020,3,0
+ER NS visits,2020,4,330
+AMITA crisis,2019,1,0
+AMITA crisis,2019,2,61
+AMITA crisis,2019,3,59
+AMITA crisis,2019,4,47
+AMITA crisis,2020,1,40
+AMITA crisis,2020,2,24
+AMITA crisis,2020,3,16
+AMITA crisis,2020,4,13
+ER SF visits,2019,1,0
+ER SF visits,2019,2,332
+ER SF visits,2019,3,535
+ER SF visits,2019,4,508
+ER SF visits,2020,1,398
+ER SF visits,2020,2,417
+ER SF visits,2020,3,372
+ER SF visits,2020,4,360
